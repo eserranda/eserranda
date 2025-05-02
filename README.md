@@ -9,8 +9,10 @@
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/> <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white"/> <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white"/> <img src="https://img.shields.io/badge/Sqlite-003B57?style=for-the-badge&logo=sqlite&logoColor=white"/> <img src="https://img.shields.io/badge/phpmyadmin-6C78AF?style=for-the-badge&logo=phpmyadmin&logoColor=white"/> <img src="https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black"/>
 
 ### My GitHub Stats
-![Eser's GitHub stats](https://github-readme-stats.vercel.app/api?username=eserranda&&show_icons=true&hide=issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eserranda&layout=compact)
+![Eser's GitHub stats](https://github-readme-stats.vercel.app/api?username=eserranda&&show_icons=true&hide=contribs,issues) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=eserranda&layout=compact)
 
+### Connect With Me
+![https://www.instagram.com/aserranda](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white) ![https://www.linkedin.com/in/eliaser-randa/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 <!--
 **eserranda/eserranda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
